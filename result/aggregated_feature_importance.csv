@@ -1,0 +1,31 @@
+Rank,Variable,Aggregated Importance,Group
+1,H7_Vaccination policy,0.20219168,Policy
+2,E2_Debt/contract relief,0.09271765,Policy
+3,C4M_Restrictions on gatherings,0.069104254,Policy
+4,$\mu^c$,0.06557891,RI
+5,C3M_Cancel public events,0.059104204,Policy
+6,growth_rate_max,0.056407265,SIR/Growth
+7,$\beta^c$,0.0558355,RI
+8,$Delta^c$,0.05278021,RI
+9,C2M_Workplace closing,0.04834277,Policy
+10,StringencyIndex_Average,0.04368057,Policy
+11,C1M_School closing,0.043217644,Policy
+12,C7M_Restrictions on internal movement,0.042402215,Policy
+13,E1_Income support,0.026719771,Policy
+14,growth_rate,0.023954874,SIR
+15,$Omicron^c$,0.019770242,RI
+16,Re,0.017746313,SIR
+17,growth_rate_mean,0.013076318,SIR/Growth
+18,C6M_Stay at home requirements,0.011087826,Policy
+19,$\sigma^c$,0.010472111,RI
+20,$Policy^p$,0.010302399,RI
+21,$Policy^c$,0.010214052,RI
+22,C8EV_International travel controls,0.007276277,Policy
+23,R0,0.0057503087,SIR
+24,sir_fit_r2,0.005150672,SIR
+25,doubling_time,0.004214088,SIR
+26,Week,0.0026895308,RI
+27,sir_reliable,0.00021233418,SIR
+28,H3_Contact tracing,0.0,Policy
+29,H1_Public information campaigns,0.0,Policy
+30,H2_Testing policy,0.0,Policy

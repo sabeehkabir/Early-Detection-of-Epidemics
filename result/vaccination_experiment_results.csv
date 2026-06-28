@@ -1,0 +1,5 @@
+Encoding,Vac Importance,Vac Rank,Top 5 Variables
+Enc-0: Baseline (zeros pre-rollout),0.0,30,"E2_Debt/contract relief, $\mu^c$, C4M_Restrictions on gatherings, C1M_School closing, $Delta^c$"
+Enc-1: Back-fill (anticipate rollout),0.0093,21,"E2_Debt/contract relief, $\mu^c$, C4M_Restrictions on gatherings, $Delta^c$, C3M_Cancel public events"
+Enc-2: Rate-of-change (7-day diff),0.0477,10,"E2_Debt/contract relief, C4M_Restrictions on gatherings, $\mu^c$, C3M_Cancel public events, C1M_School closing"
+Enc-3: Combined (level + ROC + flag),0.0,28,"E2_Debt/contract relief, vac_roc, C4M_Restrictions on gatherings, $\mu^c$, growth_rate_max"

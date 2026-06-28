@@ -1,0 +1,21 @@
+,Rank,Variable,Aggregated Importance,Group
+1,1,H7_Vaccination policy,0.2022,Policy
+2,2,E2_Debt/contract relief,0.0927,Policy
+3,3,C4M_gatherings,0.0691,Policy
+4,4,$\mu^c$,0.0656,RI
+5,5,C3M_Cancel public events,0.0591,Policy
+6,6,growth_rate_max,0.0564,SIR/Growth
+7,7,$\beta^c$,0.0558,RI
+8,8,$Delta^c$,0.0528,RI
+9,9,C2M_Workplace closing,0.0483,Policy
+10,10,Stringency Index,0.0437,Policy
+11,11,C1M_School closing,0.0432,Policy
+12,12,C7M_internal movement,0.0424,Policy
+13,13,E1_Income support,0.0267,Policy
+14,14,growth_rate,0.0240,SIR
+15,15,$Omicron^c$,0.0198,RI
+16,16,Re,0.0177,SIR
+17,17,growth_rate_mean,0.0131,SIR/Growth
+18,18,C6M_Stay at home requirements,0.0111,Policy
+19,19,$\sigma^c$,0.0105,RI
+20,20,$Policy^p$,0.0103,RI
